@@ -1,2 +1,3 @@
 # Nodejs exercise
-hello choonsic world
+# hello world!! by JIN
+# hello choonsic world
