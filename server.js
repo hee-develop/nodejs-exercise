@@ -10,6 +10,6 @@ const server = http.createServer();
 
 http.createServer(onRequest).listen(8888);
 
-http.addListener('ClientError', function(socket) {
-    console.log(HTTP/1.1 400 Bad Request\r\n\r\n);
+server.on('ClientError', function(socket) {
+    console.log('HTTP/1.1 400 Bad Request\r\n\r\n');
 });
