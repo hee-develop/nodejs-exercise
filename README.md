@@ -1,3 +1,6 @@
-# Nodejs exercise
-# hello world!! by JIN
-# hello choonsic world
+# 스터디용 저장소
+
+본 리포지토리(이하 repo)는 Git을 비롯해 NodeJS 등 실전에서 사용하는 기술을 배우기 위해 만들어졌습니다.
+
+- 의견이 있다면 Issues에 의견을 제시해주세요.
+- 사용 방법에 대해서는 Wiki를 참고해주세요.
